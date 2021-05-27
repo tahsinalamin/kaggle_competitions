@@ -1,7 +1,18 @@
 ## House Prices - Advanced Regression Techniques
 ### Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
-Projeect Link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+Project Link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+
+## Practice Skills
+  - Exploratory data analysis.
+  - Feature Engineering
+  - Advance Regression Techniques
+
+## Machine Learning Models Used
+  - Random Forest
+  - Gradient Boosting Regressor
+  - Grid Search CV
+  - XGBoost Regressor
 
 ## Data:
   - train.csv: training data
@@ -88,3 +99,6 @@ Projeect Link: https://www.kaggle.com/c/house-prices-advanced-regression-techniq
   - YrSold: Year Sold
   - SaleType: Type of sale
   - SaleCondition: Condition of sale
+
+## Acknowledgements 
+The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset.
