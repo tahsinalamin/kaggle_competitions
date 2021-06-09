@@ -8,11 +8,11 @@ Project Link: https://www.kaggle.com/c/dogs-vs-cats/overview
   
   
 ## Overview 
-  Loading own images from disk.
-  Analyze image data sets.
-  Transform image data to fixed size numpy array.
-  Create ML model and train the images.
-  Predict classification using test data set.
+   Loading own images from disk.
+   Analyze image data sets.
+   Transform image data to fixed size numpy array.
+   Create ML model and train the images.
+   Predict classification using test data set.
 
 ## Data:
   Training images: https://www.kaggle.com/c/dogs-vs-cats/data - train1.zip
