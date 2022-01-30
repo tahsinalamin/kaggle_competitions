@@ -11,4 +11,4 @@ Projects from Kaggle competitions
   - Project link in Kaggle: https://www.kaggle.com/bagavathypriya/email-spam-dataset
 
 ### 4. Netflix Prize data (Folder name: movie_receommendation)
-  - Project link in Kaggle: https://www.kaggle.com/netflix-inc/netflix-prize-data?select=qualifying.txt
+  - Project link in Kaggle: https://www.kaggle.com/netflix-inc/netflix-prize-data
