@@ -10,5 +10,5 @@ Projects from Kaggle competitions
 ### 3. Email Spam Detection (Folder name: email_spam)
   - Project link in Kaggle: https://www.kaggle.com/bagavathypriya/email-spam-dataset
 
-### 4. Netflix Prize data (Folder name: movie_receommendation)
+### 4. Netflix Prize data (Folder name: movie_recommendation)
   - Project link in Kaggle: https://www.kaggle.com/netflix-inc/netflix-prize-data
