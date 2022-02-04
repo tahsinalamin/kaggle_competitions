@@ -12,3 +12,6 @@ Projects from Kaggle competitions
 
 ### 4. Netflix Prize data (Folder name: movie_recommendation)
   - Project link in Kaggle: https://www.kaggle.com/netflix-inc/netflix-prize-data
+
+### 5. A/B Testing (Folder name: ab_testing)
+  Project link in Kaggle: https://www.kaggle.com/zhangluyuan/ab-testing
